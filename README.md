@@ -1,7 +1,7 @@
-## Hacktoberfest 2022 
+## 🎃 HacktoberFest 2022 🎃
 ## Description
 
-For this task all required information is in the [Task1](Task1) folder. Present yourself following the appropriate template.
+For this task all required information is in this README.md. Present yourself following the appropriate template.
 
 ## Contribution
 
