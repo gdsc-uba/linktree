@@ -35,7 +35,6 @@ After that, follow the steps below.
 Step 1: Head over to our twitter and linkedIn accounts
 Step 2: Copy the links to these accounts
 Step 3: - Make your changes. Create a file(filename=`<your-githubusername.json>
-
 - Add your details following the example below.
 - Respect the Json formatting
   ```json
