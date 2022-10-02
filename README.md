@@ -50,7 +50,9 @@ Step 3: - Make your changes. Create a file(filename=`<your-githubusername.json>
 Step 4: Commit the change made and push
 
 ```
-    git commit -am "feat: Add <username> linktree"
+   git add <your-githubusername.json>
+   
+    git commit -am "feat: add <username> linktree"
 
     git push -u
 ```
