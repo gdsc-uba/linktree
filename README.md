@@ -20,7 +20,7 @@ For this task, follow these instructions below:
 - Commit the change made and push
 
         ```bash
-        git commit -m "feat: added linktree"
+        git commit -m "feat: add <your_name's> linktree"
 
         git push -u
 
