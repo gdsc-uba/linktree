@@ -54,7 +54,7 @@ Step 4: Commit the change made and push
    
     git commit -am "feat: add <username> linktree"
 
-    git push -u
+    git push origin HEAD
 ```
 
 Come back to our github repo here and do a pull request.
