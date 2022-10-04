@@ -67,3 +67,6 @@ To submit your task, create a pull request to this repository. You can find more
 
 - Done!
 
+## Cheers :beer_mug: to our contributors
+
+![Contributors](./CONTRIBUTORS.svg)
