@@ -42,7 +42,8 @@ Step 3: - Make your changes. Create a file(filename=`<your-githubusername.json>
     {
       "name": "your_name",
       "linkedIn_link": "https://linkedin.com/in/username",
-      "github_link": "https://github.com/username"
+      "github_link": "https://github.com/username",
+      "twittwe": "https://twitter.com/yokwejuste"
     }
   ]
   ```
