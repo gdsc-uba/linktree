@@ -2,7 +2,7 @@
 
 This is a repository containing the links to the members of the GDSC UBA community.
 
-# 🎃 HacktoberFest 2022 🎃
+# 🎃 HacktoberFest 2023 🎃
 
 If you came here for Hacktoberfest, you're in the right place 🦇️:
 
