@@ -2,7 +2,7 @@
 
 This is a repository containing the links to the members of the GDSC UBA community.
 
-# 🎃 HacktoberFest 2022 🎃
+# 🎃 HacktoberFest 2023 🎃
 
 If you came here for Hacktoberfest, you're in the right place 🦇️:
 
@@ -42,7 +42,8 @@ Step 3: - Make your changes. Create a file(filename=`<your-githubusername.json>
     {
       "name": "your_name",
       "linkedIn_link": "https://linkedin.com/in/username",
-      "github_link": "https://github.com/username"
+      "github_link": "https://github.com/username",
+      "twittwe": "https://twitter.com/yokwejuste"
     }
   ]
   ```
@@ -59,7 +60,7 @@ Step 4: Commit the change made and push
 
 Come back to our github repo here and do a pull request.
 
-        ![open a pull request](https://i0.wp.com/user-images.githubusercontent.com/3477155/52671177-5d0e0100-2ee8-11e9-8645-bdd923b7d93b.gif?resize=1024%2C512&ssl=1)
+![open a pull request](https://i0.wp.com/user-images.githubusercontent.com/3477155/52671177-5d0e0100-2ee8-11e9-8645-bdd923b7d93b.gif?resize=1024%2C512&ssl=1)
 
 ## Submission
 
@@ -67,3 +68,6 @@ To submit your task, create a pull request to this repository. You can find more
 
 - Done!
 
+## Cheers 🍻 to our contributors
+
+![Contributors](./CONTRIBUTORS.svg)
